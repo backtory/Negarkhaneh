@@ -4,5 +4,9 @@
     <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
         <!-- Customize your theme here. -->
     </style>
+    <style name="MaterialTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
 
 </resources>
+

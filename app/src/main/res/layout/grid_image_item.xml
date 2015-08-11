@@ -2,6 +2,13 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <ProgressBar
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="70.0dip"
+        android:layout_height="70.0dip"
+        android:layout_gravity="center"
+        android:focusable="false"
+        android:indeterminate="false" />
     <ImageView
         android:id="@+id/tile_image"
         android:layout_width="match_parent"
